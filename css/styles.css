@@ -1,5 +1,11 @@
-h3, h4, h5 {
+h2, h3, h4, h5 {
     font-family: "Playfair Display";
+}
+
+footer {
+	background-color: #889bae;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 @media all and (min-width: 576px) {
@@ -44,11 +50,11 @@ h3, h4, h5 {
 }
 
 .btn:hover {
-    color: #1dccb8;
+    color: #889bae;
 }
 
 i:hover {
-    color: #1dccb8;
+    color: #889bae;
 }
 
 .timeline>li::before{
