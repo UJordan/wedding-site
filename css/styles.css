@@ -1,5 +1,24 @@
-h1, h3 {
+h3, h4, h5 {
     font-family: "Playfair Display";
+}
+
+@media all and (min-width: 576px) {
+	h3 {
+		font-size: 26pt;
+	}
+	
+}
+
+@media all and (min-width: 768px) {
+	h3 {
+		font-size: 32pt;
+	}
+}
+
+@media all and (min-width: 992px) {
+	h3 {
+		font-size: 40pt;
+	}
 }
 
 .banner-card {
