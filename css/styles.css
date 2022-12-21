@@ -53,6 +53,10 @@ footer {
     color: #889bae;
 }
 
+.modal-header {
+	background-color: #889bae;
+}
+
 i:hover {
     color: #889bae;
 }
